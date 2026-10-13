@@ -1,5 +1,6 @@
 import { useState } from 'react'
 
+import heroGraphic from './assets/hero-graphic.svg'
 import { projects } from './data/projects'
 import Contact from './components/Contact'
 import './App.css'
